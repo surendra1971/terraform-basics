@@ -1,6 +1,5 @@
 # terraform-basics
 
-# terraform-basics
 
 In this repository, we are going to place all the needed bascis that are needed to kick start our Terraform Provisioning Capabilites.
 
