@@ -1,6 +1,8 @@
 # Declaring an empty variable city 
 
-varaible "city" {}
+variable "city" {
+    default = "Bangalore"
+}
 
 output "city_name" {
     value = "Our city name is ${var.city}"
